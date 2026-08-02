@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "HotelBookingAPI.Controllers.HotelBookingController",
+    "Method": "CreateEdit",
+    "RelativePath": "api/HotelBooking",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "booking",
+        "Type": "HotelBookingAPI.Model.HotelBooking",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
