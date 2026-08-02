@@ -1,7 +1,7 @@
 [
   {
     "ContainingType": "HotelBookingAPI.Controllers.HotelBookingController",
-    "Method": "CreateEdit",
+    "Method": "Create",
     "RelativePath": "api/HotelBooking",
     "HttpMethod": "POST",
     "IsController": true,
@@ -10,6 +10,69 @@
       {
         "Name": "booking",
         "Type": "HotelBookingAPI.Model.HotelBooking",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HotelBookingAPI.Controllers.HotelBookingController",
+    "Method": "GetAll",
+    "RelativePath": "api/HotelBooking",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HotelBookingAPI.Controllers.HotelBookingController",
+    "Method": "Update",
+    "RelativePath": "api/HotelBooking/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "booking",
+        "Type": "HotelBookingAPI.Model.HotelBooking",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HotelBookingAPI.Controllers.HotelBookingController",
+    "Method": "Get",
+    "RelativePath": "api/HotelBooking/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HotelBookingAPI.Controllers.HotelBookingController",
+    "Method": "Delete",
+    "RelativePath": "api/HotelBooking/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
         "IsRequired": true
       }
     ],

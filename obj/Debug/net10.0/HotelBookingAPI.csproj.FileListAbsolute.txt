@@ -38,3 +38,4 @@ C:\Users\HP ELITEBOOK 840 G3\Desktop\HotelBookingAPI\HotelBookingAPI\obj\Debug\n
 C:\Users\HP ELITEBOOK 840 G3\Desktop\HotelBookingAPI\HotelBookingAPI\obj\Debug\net10.0\HotelBookingAPI.genruntimeconfig.cache
 C:\Users\HP ELITEBOOK 840 G3\Desktop\HotelBookingAPI\HotelBookingAPI\obj\Debug\net10.0\ref\HotelBookingAPI.dll
 C:\Users\HP ELITEBOOK 840 G3\Desktop\HotelBookingAPI\HotelBookingAPI\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\HP ELITEBOOK 840 G3\Desktop\HotelBookingAPI\HotelBookingAPI\obj\Debug\net10.0\HotelBookingAPI.sourcelink.json
